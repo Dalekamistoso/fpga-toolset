@@ -1,6 +1,5 @@
-#       FPGA Toolset for Mist compatible FPGAS
+#       FPGA Toolset for Mist compatible FPGA by DrWh0/Dalekamistoso
 
-FPGA Toolset for MiST compatible FPGAS by DrWh0/Dalekamistoso
 
 This is the first version of this tool made in order to make easier to 
 update & prepare your SD cards for your Mist FPGA or compatible.
@@ -36,34 +35,19 @@ Requirements:
 
 Notes: 
 
-Windows 7 SP1 onwards can work if you have powershell 5.1 , try
-at your own risk (I would be happy if you can test it properly)
+Windows 7 SP1 onwards can work if you install powershell 5.1 but not
+tested,try at your own risk (I'll be happy if you can test it properly)
 
 To keep it clear, if you don't install powershell 5.1 or later:
-
 Online related functions WILL NOT WORK PROPERLY OR NOT WORKING AT ALL!!!
-
-
-Known bugs:
-
-* I forgot to remove a date in title bar (I realized just now LoL)
 
 
 Planned features:
 
-* Full auto structured sd image creation in one click button
+* Full auto structured SD image creation in one click button
 * Adding an additional repository with best unofficial cores
 * Adding a full customized sd card structure
 * Access to external flasher tools
 * Adding more languages (if you ask for it)
 * Disable online buttons if powershell is not detected
-* Changes in version naming
 * Cosmetical changes & menu rearrange
-
-
-Version changelog:
-
-20/12/2025 Initial Beta version
-
-
-

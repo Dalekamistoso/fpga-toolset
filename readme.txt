@@ -28,38 +28,52 @@ Features:
 * Compact & portable executable
 
 
-Requeriments:
+Requirements:
 
 * Windows 10 (or any Windows with Powershell 5.1 installed)
 * Latest mra tool (already included with this program)
 
 Notes: 
 
-Windows 7 SP1 onwards can work if you install powershell 5.1 but I haven`t
-tested, try at your own risk (I will be happy if you can test it properly)
+Windows 7 SP1 onwards can work if you install powershell 5.1 but not
+tested,try at your own risk (I'll be happy if you can test it properly)
 
 To keep it clear, if you don't install powershell 5.1 or later:
-
 Online related functions WILL NOT WORK PROPERLY OR NOT WORKING AT ALL!!!
 
-Known bugs:
 
-* I forgot to remove a date in title bar (I realized just now LoL)
+Known bugs (24/12/2025):
+
+* None ATM
 
 
 Planned features:
 
-* Full auto structured sd image creation in one click button
+* Full auto structured SD image creation in one click button
 * Adding an additional repository with best unofficial cores
 * Adding a full customized sd card structure
 * Access to external flasher tools
 * Adding more languages (if you ask for it)
 * Disable online buttons if powershell is not detected
-* Changes in version naming
+* Cosmetical changes & menu rearrange
 
 Version changelog:
 
-20/12/2025 Initial Beta version
+24/12/2025 (Version 1.11)
+
+* Changes in version naming
+* Removed forgotten fixed date text in title bar
+* Cosmetic changes
+* Text tweaks & fixes in both languages
+* Tweaks in readme
+
+20/12/2025 (Version 1.0)
+
+* Initial Beta version
+
+
+
+
 
 
 
