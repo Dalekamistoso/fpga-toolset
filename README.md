@@ -1,5 +1,6 @@
 # FPGA Toolset for Mist compatible FPGAS
-    Programmed by DrWh0/Dalekamistoso https://x.com/Dalekamistoso
+
+Programmed by DrWh0/Dalekamistoso https://x.com/Dalekamistoso
 
 This is a tool I made to make easier to update & prepare your 
 SD cards to start using your Mist/compatible FPGA.
