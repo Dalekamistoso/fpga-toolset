@@ -1,8 +1,8 @@
 #       FPGA Toolset for Mist compatible FPGA by DrWh0/Dalekamistoso
 
 
-This is the first version of this tool made in order to make easier to 
-update & prepare your SD cards for your Mist FPGA or compatible.
+This is a tool made in order to make easier to update & prepare your 
+SD cards for your Mist FPGA or compatible ones.
 
 FPGA currently supported:
 
@@ -35,7 +35,7 @@ Requirements:
 
 Notes: 
 
-Windows 7 SP1 onwards can work if you install powershell 5.1 but not
+Windows 7 SP1 onwards can work if you install powershell 5.1 but is not
 tested,try at your own risk (I'll be happy if you can test it properly)
 
 To keep it clear, if you don't install powershell 5.1 or later:
