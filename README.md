@@ -1,8 +1,7 @@
-#       FPGA Toolset for Mist compatible FPGA by DrWh0/Dalekamistoso
+# FPGA Toolset for Mist compatible FPGAS (DrWh0/Dalekamistoso)
 
-
-This is a tool made in order to make easier to update & prepare your 
-SD cards for your Mist FPGA or compatible ones.
+This is a tool I made in order to make easier to update & prepare your 
+SD cards for your Mist FPGA or compatibles.
 
 FPGA currently supported:
 
