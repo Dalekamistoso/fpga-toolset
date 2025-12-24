@@ -1,0 +1,16 @@
+Version history (changelog):
+
+24/12/2025 (Version 1.11)
+
+* Changes in version naming
+* Removed forgotten/obsolete text in main title bar
+* Cosmetic changes
+* Text tweaks & fixes in both languages
+* Tweaks in both readme files (github & full readme)
+* Some internal logic adjustments
+* Added separate changelog file
+
+20/12/2025 (Version 1.0)
+
+* Initial Beta version
+
