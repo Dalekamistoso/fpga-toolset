@@ -43,6 +43,7 @@ To keep it clear, if you don't install powershell 5.1 or later:
 
 Online related functions WILL NOT WORK PROPERLY OR NOT WORKING AT ALL!!!
 
+
 Known bugs:
 
 * I forgot to remove a date in title bar (I realized just now LoL)
@@ -57,6 +58,8 @@ Planned features:
 * Adding more languages (if you ask for it)
 * Disable online buttons if powershell is not detected
 * Changes in version naming
+* Cosmetical changes & menu rearrange
+
 
 Version changelog:
 
