@@ -1,6 +1,6 @@
-==========================================================================
-       FPGA Toolset for Mist compatible FPGA by DrWh0/Dalekamistoso
-==========================================================================
+#       FPGA Toolset for Mist compatible FPGAS
+
+FPGA Toolset for MiST compatible FPGAS by DrWh0/Dalekamistoso
 
 This is the first version of this tool made in order to make easier to 
 update & prepare your SD cards for your Mist FPGA or compatible.
@@ -28,19 +28,21 @@ Features:
 * Compact & portable executable
 
 
-Requeriments:
+Requirements:
 
 * Windows 10 (or any Windows with Powershell 5.1 installed)
 * Latest mra tool (already included with this program)
 
+
 Notes: 
 
-Windows 7 SP1 onwards can work if you install powershell 5.1 but I haven`t
-tested, try at your own risk (I will be happy if you can test it properly)
+Windows 7 SP1 onwards can work if you have powershell 5.1 , try
+at your own risk (I would be happy if you can test it properly)
 
 To keep it clear, if you don't install powershell 5.1 or later:
 
 Online related functions WILL NOT WORK PROPERLY OR NOT WORKING AT ALL!!!
+
 
 Known bugs:
 
@@ -56,6 +58,8 @@ Planned features:
 * Adding more languages (if you ask for it)
 * Disable online buttons if powershell is not detected
 * Changes in version naming
+* Cosmetical changes & menu rearrange
+
 
 Version changelog:
 
